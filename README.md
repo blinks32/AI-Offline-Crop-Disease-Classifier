@@ -217,14 +217,4 @@ Training Data (PlantVillage)
 
 **ADTC Smart Crop Disease Detection** represents the future of agricultural technology - putting the power of AI directly into farmers' hands. Our solution addresses critical global challenges while demonstrating technical excellence and real-world impact.
 
-**Ready to revolutionize agriculture, one smartphone at a time.**
-
----
-
-## 📞 **Contact Information**
-- **GitHub Repository**: [Your GitHub Link]
-- **Demo Video**: [Your Video Link]
-- **Technical Documentation**: [Your Docs Link]
-- **Live Demo**: Available for judges and stakeholders
-
 **Together, let's build a more food-secure future through accessible agricultural technology.**
